@@ -1,21 +1,20 @@
 cd ~/WasiaL007
 cat > README.md
-<h1 align="center">Hi 👋, I'm Wasi Al</h1>
+I am a Python and Termux developer who loves building terminal-based tools and learning new technologies.
+
+My work focuses on:
+- 🐍 Python programming
+- 📱 Termux development
+- 🐧 Linux environment
+- 🤖 AI exploration
+- 🔧 Open-source projects
+
+I enjoy creating useful tools, improving my coding skills, and sharing my projects with the developer community.<h1 align="center">Hi 👋, I'm Wasi Al</h1>
 
 <h3 align="center">Python Developer • AI Enthusiast • Termux Developer • Cyber Security Learner</h3>
-
 <p align="center">
-Welcome to my GitHub Profile 🚀
-</p>
+Welcome to my GitHub Profile 🚀</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently developing **Wasi_aL_OS**
-- 🌱 Learning **Python, AI & Cyber Security**
-- 💻 Passionate about **Termux & Linux**
-- 🚀 Building open-source projects
 
 ---
 

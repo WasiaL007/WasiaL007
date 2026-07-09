@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wasi Al</h1>
 
-<!--
-**WasiaL007/WasiaL007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python Developer • AI Enthusiast • Termux Developer • Cyber Security Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Developer+of+Wasi_aL_OS;Python+%7C+Termux+%7C+AI;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently developing **Wasi_aL_OS**
+- 🌱 Learning **Python, AI & Cyber Security**
+- 💻 Love building **Termux projects**
+- 🚀 Open Source Developer
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- Git
+- GitHub
+- Linux
+- Termux
+
+---
+
+## 📫 Connect With Me
+
+- Facebook: https://www.facebook.com/profile.php?id=61567484469088

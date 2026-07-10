@@ -3,10 +3,11 @@
 A passionate developer and open-source enthusiast.
 
 <marquee direction="left" scrollamount="5">
-  🚀 Python Developer | 🐧 Linux Enthusiast | 📱 Termux Tool Creator | 💻 Open Source Contributor | 💡 Problem Solver
+  🚀 Python Developer | 🐧 Linux Enthusiast |      📱 Termux Tool Creator | 💻 Open Source            Contributor | 💡 Problem Solver
 </marquee>
 
-## 🚀 Featured Project: Wasi_aL_OS v1.6
+## 🚀 Featured Project: 
+              Wasi_aL_OS v1.6
 A colorful terminal-based mini operating system simulation for Termux.
 
 ## 📥 Installation Guide

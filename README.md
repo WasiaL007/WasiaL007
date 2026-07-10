@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Python+Developer;Linux+Enthusiast;Termux+Tool+Creator;Open+Source+Contributor;Problem+Solver" alt="Typing SVG"/>
 </p>
 
-<h2 align="center">👋 Hi there, I am Wasi Al</h2>
+<h2 align="center">👋 Hi there, I am Wasi AL</h2>
 
 <p align="center">
 A passionate developer and open-source enthusiast.
@@ -44,8 +44,7 @@ cd ~/Wasi_aL_OS-v1.6 && clear && python run.py
 
 ## 👨‍💻 Developer
 
-### Wasi Al
-
+### Wasi AL
 *A tech enthusiast building lightweight and powerful CLI tools for terminal lovers.*
 
 ---

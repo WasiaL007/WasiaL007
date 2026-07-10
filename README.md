@@ -44,8 +44,7 @@ cd ~/Wasi_aL_OS-v1.6 && clear && python run.py
 
 ## 👨‍💻 Developer
 
-### Wasi AL
-*A tech enthusiast building lightweight and powerful CLI tools for terminal lovers.*
+A tech enthusiast building lightweight and powerful CLI tools for terminal lovers.
 
 ---
 

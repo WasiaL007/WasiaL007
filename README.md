@@ -2,6 +2,10 @@
 
 A passionate developer and open-source enthusiast.
 
+<marquee direction="left" scrollamount="5">
+  🚀 Python Developer | 🐧 Linux Enthusiast | 📱 Termux Tool Creator | 💻 Open Source Contributor | 💡 Problem Solver
+</marquee>
+
 ## 🚀 Featured Project: Wasi_aL_OS v1.6
 A colorful terminal-based mini operating system simulation for Termux.
 
@@ -23,5 +27,6 @@ cd ~/Wasi_aL_OS-v1.6 && clear && python run.py
 Current Version: **v1.6**
 
 ## 📊 GitHub Stats
-![Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WasiaL007&show_icons=true&theme=radical)
+![Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WasiaL007&theme=dark&hide_border=false&include_all_commits=true)
+
 

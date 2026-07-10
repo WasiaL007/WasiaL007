@@ -1,81 +1,31 @@
-<h1 align="center">Hi 👋, I'm Wasi Al</h1>
-
-<h3 align="center">Python Developer • AI Enthusiast • Termux Developer • Cyber Security Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Developer+of+Wasi_aL_OS;Python+%7C+Termux+%7C+AI;Always+Learning+New+Things" />
-</p>
+# Hi there, I am Wasi Al 👋
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Project: Wasi_aL_OS v1.6
 
-- 🔭 Currently developing **Wasi_aL_OS**
-- 🌱 Learning **Python, AI & Cyber Security**
-- 💻 Passionate about **Termux & Linux**
-- 🚀 Building useful open-source projects
+A colorful terminal-based mini operating system simulation for Termux.
 
 ---
 
-## 🛠️ Languages & Tools
+## 📥 Installation Guide
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,bash" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### Wasi_aL_OS
-
-A personal Python based terminal operating system project developed by **Wasi Al**.
-
-## 🚀 Quick Run
+Copy the whole command below, paste it into Termux, and press **Enter**. (Takes 4-5 minutes)
 
 ```bash
-git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git
-cd Wasi_aL_OS-v1.5
-python run.py
-```
-
-## 📦 Installation (Termux)
-
-```bash
-pkg update && pkg upgrade -y
-pkg install python git -y
-
-git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git
-cd Wasi_aL_OS-v1.5
-
-python run.py
+pkg update -y && pkg install git python -y && git clone [https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git](https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git) && cd Wasi_aL_OS-v1.5 && clear && python run.py
 ```
 
 ---
 
+## ⚡ Quick Run
 
-## 📊 GitHub Stats
+If already installed, copy this command to launch instantly within a few seconds!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WasiaL007&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasiaL007&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasiaL007&layout=compact&theme=tokyonight" />
-</p>
+```bash
+cd ~/Wasi_aL_OS-v1.5 && clear && python run.py
+```
 
 ---
 
-## 📫 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61567484469088)
-
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub Profile ⭐
-</p>
+📊 **GitHub Stats**

@@ -33,8 +33,8 @@ Install WASI AL OS with one command:
 ```bash
 pkg update -y
 pkg install git -y
-git clone https://github.com/WasiaL007/WasiaL007.git
-cd WasiaL007
+git clone https://github.com/WasiaL007/Wasi_aL_OS-Termux.git
+cd Wasi_aL_OS-Termux
 bash install.sh
 ```
 l
@@ -43,7 +43,7 @@ l
 
 ```bash
 
-pkg update -y && pkg install git -y && git clone https://github.com/WasiaL007/WasiaL007.git && cd WasiaL007 && bash install.sh
+pkg update -y && pkg install git -y && git clone https://github.com/WasiaL007/Wasi_aL_OS-Termux.git && cd Wasi_aL_OS-Termux && bash install.sh
 ```
 
 ## 👨‍💻 Developer

@@ -66,8 +66,7 @@ cd ~/Wasi_aL_OS-Termux && clear && python run.py
 
 A tech enthusiast building lightweight and powerful CLI tools for terminal lovers.
 
-GitHub: https://github.com/WasiaL007
----
+🐙 **GitHub:** [WasiaL007](https://github.com/WasiaL007)
 
 ## 📌 Version
 

@@ -59,6 +59,15 @@ Already installed? Launch **WASI AL OS** instantly with one command:
 ```bash
 cd ~/Wasi_aL_OS-Termux && clear && python run.py
 ```
+## ⭐ Support
+
+If you enjoy this project, please give it a ⭐ on GitHub.
+
+Your support motivates future updates.
+
+## 📜 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
@@ -76,6 +85,13 @@ A tech enthusiast building lightweight and powerful CLI tools for terminal lover
 
 ## 📊 GitHub Stats
 
+![Wasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WasiaL007&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WasiaL007&layout=compact&theme=tokyonight)
+---
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WasiaL007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+⭐ If you like <b>WASI AL OS</b>, consider giving this repository a Star ⭐
+<br><br>
+Made with ❤️ by <b>Wasi Al</b> using 🐍 Python for 📱 Termux
 </p>

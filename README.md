@@ -6,6 +6,6 @@
 
 
 
-GitHub profile ASCII card by WasiaL — customized from Andrew Grant's neofetch-style profile generator.
+GitHub profile ASCII card by WasiaL — customized from DmZcoder neofetch-style profile generator.
 
-> Inspired by [Andrew Grant (Andrew6rant)](https://github.com/Andrew6rant/Andrew6rant) — original neofetch-style GitHub profile README concept.
+> Inspired by [DMZcoder (DmZcoder)](https://github.com/dmzcoder) — original neofetch-style GitHub profile README concept.

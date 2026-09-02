@@ -8,4 +8,4 @@
 
 GitHub profile ASCII card by WasiaL — customized from Andrew Grant's neofetch-style profile generator.
 
-> Inspired by [ME)](https://https://www.instagram.com/_wasi_al) — original neofetch-style GitHub profile README concept.
+> Inspired by [ME (https://https://www.instagram.com/_wasi_al) — original neofetch-style GitHub profile README concept.
